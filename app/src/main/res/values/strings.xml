@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Books</string>
+
+    <string name="loading_failed">Failed to load</string>
+    <string name="no_books">No books found on request: %s</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="back_button">Back</string>
+    <string name="search">Search</string>
+
+    <string-array name="book_topics">
+        <item>Antiques and Collectibles</item>
+        <item>Architecture</item>
+        <item>Art</item>
+        <item>Bibles</item>
+        <item>Biography and Autobiography</item>
+        <item>Body Mind and Spirit</item>
+        <item>Business and Economics</item>
+        <item>Comics and Graphic Novels</item>
+        <item>Computers</item>
+        <item>Cooking</item>
+        <item>Crafts and Hobbies</item>
+        <item>Design</item>
+        <item>Drama</item>
+        <item>Education</item>
+        <item>Family and Relationships</item>
+        <item>Fiction</item>
+        <item>Foreign Language Study</item>
+        <item>Games and Activities</item>
+        <item>Gardening</item>
+        <item>Health and Fitness</item>
+        <item>History</item>
+        <item>House and Home</item>
+        <item>Humor</item>
+        <item>Juvenile Fiction</item>
+        <item>Juvenile Nonfiction</item>
+        <item>Language Arts and Disciplines</item>
+        <item>Law</item>
+        <item>Literary Collections</item>
+        <item>Literary Criticism</item>
+        <item>Mathematics</item>
+        <item>Medical</item>
+        <item>Music</item>
+        <item>Nature</item>
+        <item>Performing Arts</item>
+        <item>Pets</item>
+        <item>Philosophy</item>
+        <item>Photography</item>
+        <item>Poetry</item>
+        <item>Political Science</item>
+        <item>Psychology</item>
+        <item>Reference</item>
+        <item>Religion</item>
+        <item>Science</item>
+        <item>Self Help</item>
+        <item>Social Science</item>
+        <item>Sports and Recreation</item>
+        <item>Study Aids</item>
+        <item>Technology and Engineering</item>
+        <item>Transportation</item>
+        <item>Travel</item>
+        <item>True Crime</item>
+        <item>Young Adult Fiction</item>
+        <item>Young Adult Nonfiction</item>
+    </string-array>
+</resources>
